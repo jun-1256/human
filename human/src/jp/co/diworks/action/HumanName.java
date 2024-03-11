@@ -1,7 +1,7 @@
 package jp.co.diworks.action;
 
 //『HumaName.java 』と『 public class HumanName 』は 
-//	同じ名前にしないとダメ(クラス(=ファイル作成)の時に自動的に同じ名前で作られる)
+//同じ名前にしないとダメ(クラス(=ファイル作成)の時に自動的に同じ名前で作られる)
 
 public class HumanName {
 
